@@ -1,0 +1,1780 @@
+[
+  {
+    "tmgroupid": 1,
+    "tmgroupname": "Acupuncture",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 74,
+            "specialist": "Spesialis Akupuntur Klinik",
+            "doctors": [{ "pid": 3214, "dokter": "Newanda Mochtar dr. Sp Ak" }]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 74,
+            "specialist": "Spesialis Akupuntur Klinik",
+            "doctors": [
+              { "pid": 3014, "dokter": "dr. A.Lufty Setiawardhani, Sp.Ak" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 2,
+    "tmgroupname": "Anaesthesia",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 72,
+            "specialist": "Spesialis Anestesiologi dan Reanimasi",
+            "doctors": [
+              { "pid": 1280, "dokter": "Nella A, dr. SpAn" },
+              { "pid": 1282, "dokter": "Susan ER, dr. SpAn" },
+              { "pid": 1283, "dokter": "Marsito, dr. SpAn" },
+              { "pid": 1284, "dokter": "Zulkarnaen Kasim, dr. SpAn" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 72,
+            "specialist": "Spesialis Anestesiologi dan Reanimasi",
+            "doctors": [
+              { "pid": 1319, "dokter": "Diana Fitria Ningsih, Dr. SpAn" },
+              { "pid": 1356, "dokter": "Erwin Santoso, Dr. SpAn" },
+              { "pid": 1896, "dokter": "Badarsyah. Dr. SpAn" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 72,
+            "specialist": "Spesialis Anestesiologi dan Reanimasi",
+            "doctors": [
+              {
+                "pid": 4358,
+                "dokter": "dr. Ketut Ngurah Gunapriya, Sp.An - KIC, FIPM, FIPP, CIPS"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 3,
+    "tmgroupname": "Andrologi",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 73,
+            "specialist": "Spesialis Andrologi",
+            "doctors": [{ "pid": 4587, "dokter": "Androniko Setiawan, Sp.And" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 5,
+    "tmgroupname": "Dental",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 52,
+            "specialist": "Dokter Gigi Umum",
+            "doctors": [{ "pid": 1760, "dokter": "Egy Puti L.drg" }]
+          },
+          {
+            "tmid": 77,
+            "specialist": "Spesialis Bedah Mulut ",
+            "doctors": [
+              { "pid": 4589, "dokter": "Semi Riawan Syauli drg, Sp.BM" }
+            ]
+          },
+          {
+            "tmid": 87,
+            "specialist": "Spesialis Konservasi Gigi (Dokter Gigi)",
+            "doctors": [
+              { "pid": 1739, "dokter": "Hirania Soraya, drg Sp.KG" },
+              { "pid": 1741, "dokter": " Adelia Mutia Indah drg.Sp.KG" },
+              { "pid": 3209, "dokter": "Ariza Indarika drg.Sp.KG" }
+            ]
+          },
+          {
+            "tmid": 88,
+            "specialist": "Spesialis Kedokteran Gigi Anak (Dokter Gigi)",
+            "doctors": [
+              { "pid": 1197, "dokter": "Eka Sabaty Shofiyah,drg. SpKGA" },
+              { "pid": 1750, "dokter": "Adita Gayatri, drg. SpKGA" },
+              { "pid": 1757, "dokter": "Kiki Seyla P drg, SpkGA" },
+              { "pid": 1758, "dokter": "Danar Pradipta.drg, SpkGA" },
+              { "pid": 1759, "dokter": "Adina Novia .drg, SpKGA" }
+            ]
+          },
+          {
+            "tmid": 100,
+            "specialist": "Spesialis Ortodonsia (Perawatan Maloklusi) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 3208, "dokter": "Defianty Agustin drg Sp.Ortho" }
+            ]
+          },
+          {
+            "tmid": 104,
+            "specialist": "Spesialis Periodonsia (Jaringan Gusi dan Penyangga Gigi) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 3574, "dokter": "Nofikha Hanim Nasution,drg Sp.Perio" }
+            ]
+          },
+          {
+            "tmid": 109,
+            "specialist": "Spesialis Prostodonsia (Restorasi Rongga Mulut) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 1744, "dokter": "Karina, drg Sp. Pros" },
+              { "pid": 3215, "dokter": "Andi M Bayu Dwi Putra, drg Sp Pros" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 52,
+            "specialist": "Dokter Gigi Umum",
+            "doctors": [
+              { "pid": 1347, "dokter": "Fauziyah Indriyati, drg" },
+              { "pid": 1897, "dokter": "Piwulang Maulidiah, drg." },
+              { "pid": 4613, "dokter": "Sinebar Sekar Sukomasaji, drg." }
+            ]
+          },
+          {
+            "tmid": 88,
+            "specialist": "Spesialis Kedokteran Gigi Anak (Dokter Gigi)",
+            "doctors": [
+              { "pid": 1886, "dokter": "Sekar Palupi, drg. SpKGA " },
+              { "pid": 4614, "dokter": "Greta Putri Arini, drg. Sp.KGA" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 52,
+            "specialist": "Dokter Gigi",
+            "doctors": [
+              { "pid": 4622, "dokter": "drg. Febri Fahmawati" },
+              { "pid": 4629, "dokter": "drg. Maryciela Elvana Rizki, Sp.KGA" },
+              { "pid": 4633, "dokter": "drg. Ilona Amalia Devi" },
+              { "pid": 4673, "dokter": "drg. Putu Gyzca Pradypta I Gede" }
+            ]
+          },
+          {
+            "tmid": 77,
+            "specialist": "Spesialis Bedah Mulut dan Maksilofasial (Dokter Gigi)",
+            "doctors": [{ "pid": 4621, "dokter": "drg. Astri Hapsari, Sp.BM" }]
+          },
+          {
+            "tmid": 87,
+            "specialist": "Spesialis Konservasi Gigi (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4628, "dokter": "drg. Jeffrey Dwijayana Susanto" },
+              { "pid": 4631, "dokter": "drg. Ichwanul Muslim, Sp.KG" }
+            ]
+          },
+          {
+            "tmid": 88,
+            "specialist": "Spesialis Kedokteran Gigi Anak (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4632, "dokter": "drg. Shaffa Amalia, Sp.KGA" },
+              { "pid": 4658, "dokter": "drg. Zahara Gladea, Sp.KGA" }
+            ]
+          },
+          {
+            "tmid": 100,
+            "specialist": "Spesialis Ortodonsia (Perawatan Maloklusi) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4623, "dokter": "drg. Erlina Hasriati, Sp.Ort" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 52,
+            "specialist": "Dokter Gigi",
+            "doctors": [
+              { "pid": 4076, "dokter": "drg. Jane Sutera Soenoe" },
+              { "pid": 4079, "dokter": "drg. Rachma Camelia" },
+              { "pid": 4094, "dokter": "drg. Dea Nindya" },
+              { "pid": 4116, "dokter": "drg. Hayati Purwaningrum, MARS" },
+              { "pid": 4119, "dokter": "drg. Eka Alegrina" },
+              { "pid": 4671, "dokter": "drg. Rani Handayani, Sp.PM" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 52,
+            "specialist": "Dokter Gigi",
+            "doctors": [
+              {
+                "pid": 4218,
+                "dokter": "Prof. drg. Rahmi Amtha, Mds, Sp.PM, PhD"
+              },
+              { "pid": 4313, "dokter": "drg. Astri Sulandari, Sp.Perio" },
+              { "pid": 4361, "dokter": "drg. Karina Ariani Hafiz" },
+              { "pid": 4368, "dokter": "drg. Natalia Astina" }
+            ]
+          },
+          {
+            "tmid": 77,
+            "specialist": "Spesialis Bedah Mulut dan Maksilofasial (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4200, "dokter": "drg. Teuku Ahmad Arbi, Sp.BM" },
+              { "pid": 4360, "dokter": "drg. Ken Ayu Miranthy, Sp.BM" }
+            ]
+          },
+          {
+            "tmid": 87,
+            "specialist": "Spesialis Konservasi Gigi (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4312, "dokter": "drg. Devy Noviana, Sp.KG" },
+              { "pid": 4320, "dokter": "drg. Maswati, Sp.KG" },
+              { "pid": 4347, "dokter": "drg. Rinda Wanodyatama, Sp.KG" },
+              { "pid": 4363, "dokter": "drg. Bina Amanda, Sp.KG" }
+            ]
+          },
+          {
+            "tmid": 88,
+            "specialist": "Spesialis Kedokteran Gigi Anak (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4224, "dokter": "drg. Tri Julianti, Sp.KGA" },
+              { "pid": 4321, "dokter": "drg. Margaretha Sovaria, Sp.KGA" },
+              { "pid": 4322, "dokter": "drg. Kusuma Prita, Sp.KGA" },
+              { "pid": 4357, "dokter": "drg. Nila Alya Maulidina, Sp.KGA" }
+            ]
+          },
+          {
+            "tmid": 100,
+            "specialist": "Spesialis Ortodonsia (Perawatan Maloklusi) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4223, "dokter": "drg. Vika Novia Zamri, Sp.Ort" },
+              { "pid": 4308, "dokter": "drg. Adhyana Satya Novanto, Sp.Ort" }
+            ]
+          },
+          {
+            "tmid": 104,
+            "specialist": "Spesialis Periodonsia (Jaringan Gusi dan Penyangga Gigi) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 3068, "dokter": "drg. Dinna Adriani, Sp.Perio" }
+            ]
+          },
+          {
+            "tmid": 109,
+            "specialist": "Spesialis Prostodonsia (Restorasi Rongga Mulut) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4307, "dokter": "drg. M. Riyadhianto, Sp.Pros" },
+              { "pid": 4362, "dokter": "drg. Dona Dewita, Sp.Pros" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 52,
+            "specialist": "Dokter Gigi",
+            "doctors": [
+              { "pid": 4131, "dokter": "drg. Maudina Dwi Heriasti" },
+              {
+                "pid": 4673,
+                "dokter": "drg. Putu Gyzca Pradypta I Gede, Sp.KGA"
+              }
+            ]
+          },
+          {
+            "tmid": 87,
+            "specialist": "Spesialis Konservasi Gigi (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4132, "dokter": "drg. Adelia Mutia Indah, Sp.KG" }
+            ]
+          },
+          {
+            "tmid": 88,
+            "specialist": "Spesialis Kedokteran Gigi Anak (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4134, "dokter": "drg. Astri Kusumaningrum, Sp.KGA" },
+              { "pid": 4135, "dokter": "dr. Yesri Sasmita Purba, Sp.KGA" }
+            ]
+          },
+          {
+            "tmid": 100,
+            "specialist": "Spesialis Ortodonsia (Perawatan Maloklusi) (Dokter Gigi)",
+            "doctors": [
+              { "pid": 4133, "dokter": "drg. Rani Setyawati Moekti, Sp.Ort" }
+            ]
+          },
+          {
+            "tmid": 109,
+            "specialist": "Spesialis Prostodonsia (Restorasi Rongga Mulut) (Dokter Gigi)",
+            "doctors": [
+              {
+                "pid": 4129,
+                "dokter": "drg. Kuncoro Priyatna Basdabella, Sp.Pros"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 6,
+    "tmgroupname": "Dermatology",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 91,
+            "specialist": "Spesialis Penyakit Kulit dan Kelamin",
+            "doctors": [
+              {
+                "pid": 1306,
+                "dokter": "Grace N.S Wardhana, dr. SpKK, FINSDV, FAADV"
+              },
+              { "pid": 1727, "dokter": "Eva Riani dr. Sp.DV" },
+              { "pid": 4859, "dokter": "dr. Made Sanitca Indah, Sp.DV" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 91,
+            "specialist": "Spesialis Penyakit Kulit dan Kelamin",
+            "doctors": [
+              { "pid": 1336, "dokter": "Galih Manggala Mahardika, Dr. SpKK" },
+              { "pid": 4107, "dokter": "Rahmaniar Desianti Kuraga, Dr. SpKK" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 91,
+            "specialist": "Spesialis Penyakit Kulit dan Kelamin",
+            "doctors": [
+              { "pid": 4634, "dokter": "dr. Randy Satria Nugraha, Sp.DV" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 91,
+            "specialist": "Spesialis Penyakit Kulit dan Kelamin",
+            "doctors": [
+              { "pid": 4102, "dokter": "dr. Fiedya Wati Kusuma, Sp.KK" },
+              { "pid": 4665, "dokter": "dr. Anggana Rafika, SpKK" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 91,
+            "specialist": "Spesialis Penyakit Kulit dan Kelamin",
+            "doctors": [
+              { "pid": 4231, "dokter": "dr. Vita Siphra, Sp.DV" },
+              { "pid": 4278, "dokter": "dr. Harsha Aulia, Sp.KK" },
+              { "pid": 4291, "dokter": "dr. Arinia Kholis Putri, Sp.DV" },
+              { "pid": 4370, "dokter": "dr. Hafiza Fadel, Sp.KK" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 7,
+    "tmgroupname": "Ear Nose And Throats",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 113,
+            "specialist": "Spesialis Telinga Hidung Tenggorok-Bedah Kepala Leher",
+            "doctors": [
+              {
+                "pid": 1198,
+                "dokter": "Natasha Supartono, dr. Sp.T.H.T.B.K.L"
+              },
+              { "pid": 1221, "dokter": "Bono Humana,dr. Sp. THT-KL" },
+              { "pid": 1732, "dokter": "Fairus, dr. Sp.THT" },
+              { "pid": 3212, "dokter": "Brawijaya Hearing Center " }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 113,
+            "specialist": "Spesialis Telinga Hidung Tenggorok-Bedah Kepala Leher",
+            "doctors": [
+              { "pid": 1359, "dokter": "Sandhi Ari Susanti, Dr. SpTHT" },
+              { "pid": 4435, "dokter": "Arfah Lena, Dr. Sp. THT-KL" },
+              { "pid": 4436, "dokter": "Lidya Sabig, Dr. Sp.THT-KL" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 113,
+            "specialist": "Spesialis Telinga Hidung Tenggorok-Bedah Kepala Leher",
+            "doctors": [
+              {
+                "pid": 1393,
+                "dokter": "Dr. dr. Fauziah Fardizza, Sp.THT - KL (K)"
+              },
+              { "pid": 1394, "dokter": "dr. Darnila F, Sp.THT - KL" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 113,
+            "specialist": "Spesialis Telinga Hidung Tenggorok-Bedah Kepala Leher",
+            "doctors": [
+              { "pid": 4092, "dokter": "dr. Yurnita, Sp.THT - KL" },
+              { "pid": 4417, "dokter": "dr. Farryanto Kusulistyo, Sp.THT - KL" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 113,
+            "specialist": "Spesialis Telinga Hidung Tenggorok-Bedah Kepala Leher",
+            "doctors": [
+              {
+                "pid": 4279,
+                "dokter": "dr. Hamida Hayati Faisal, Sp.THT - KL"
+              },
+              { "pid": 4372, "dokter": "dr. Wisanti Zarwin, Sp.THT - KL" },
+              {
+                "pid": 4377,
+                "dokter": "Dr. dr. Mirta Hediyati Reksodiputro, Sp.THT - KL (K)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 8,
+    "tmgroupname": "Cardiovascular Center",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 85,
+            "specialist": "Spesialis Jantung dan Pembuluh Darah",
+            "doctors": [
+              { "pid": 1307, "dokter": "Jetty H Sedyawan, dr. SpJP. K. FIHA" },
+              { "pid": 3206, "dokter": "Ayuthia Putri Sedyawan, dr Sp.JP" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 85,
+            "specialist": "Spesialis Jantung dan Pembuluh Darah",
+            "doctors": [
+              { "pid": 4640, "dokter": "dr. Vienna Rossimarina, Sp.JP (K)" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 85,
+            "specialist": "Spesialis Jantung dan Pembuluh Darah",
+            "doctors": [
+              {
+                "pid": 4419,
+                "dokter": "dr. Laurent Febrillia Yuwono, Sp.JP, FIHA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 85,
+            "specialist": "Spesialis Jantung dan Pembuluh Darah",
+            "doctors": [
+              {
+                "pid": 4202,
+                "dokter": "dr. Faris Basalamah, Sp.JP (K), FIHA, FAPSIC, FAsCC"
+              },
+              {
+                "pid": 4309,
+                "dokter": "dr. Suko Adiarto, Sp.JP (K), FIHA, FICA, FAsCC, PhD"
+              },
+              {
+                "pid": 4311,
+                "dokter": "dr. Dicky Armein Hanafy, Sp.JP (K), FIHA, FAsCC"
+              },
+              {
+                "pid": 4315,
+                "dokter": "Dr. dr. Dafsah Arifa Juzar, Sp.JP (K),FIHA, FAsCC"
+              },
+              {
+                "pid": 4324,
+                "dokter": "dr. Sunu Budhi Raharjo, Sp.JP (K), FIHA, PhD"
+              },
+              {
+                "pid": 4343,
+                "dokter": "dr. BRM Ario Soeryo, Sp.JP (K), FIHA, FAsCC"
+              },
+              {
+                "pid": 4359,
+                "dokter": "Dr. dr. Med. Denio A. Ridjab, Sp.JP (K), FIHA, FESC"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 9,
+    "tmgroupname": "Internal Medicine",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 106,
+            "specialist": "Spesialis Penyakit Dalam",
+            "doctors": [
+              { "pid": 1232, "dokter": "Febie Chriestya, dr. SpPD. Msc" },
+              { "pid": 1291, "dokter": "Prasna Pramita, dr. SpPD - KAI" },
+              { "pid": 3581, "dokter": "Rizka Novita Indriani,dr. Sp.PD" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 106,
+            "specialist": "Spesialis Penyakit Dalam",
+            "doctors": [
+              { "pid": 1352, "dokter": "Kaharudin Alamsyah, Dr. SpPD" },
+              { "pid": 1869, "dokter": "Dimas Priantono, Dr. SpPD " },
+              { "pid": 1882, "dokter": "Aru Ariadno, Dr. SpPD KGEH" },
+              { "pid": 3595, "dokter": "Iin indra Pertiwi, Dr. SpPD" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 106,
+            "specialist": "Spesialis Penyakit Dalam",
+            "doctors": [
+              { "pid": 1921, "dokter": "dr. Rezky Aulia Nurleili, Sp.PD" },
+              { "pid": 4639, "dokter": "dr. Ni Nyoman Indirawati, Sp.PD" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 106,
+            "specialist": "Spesialis Penyakit Dalam",
+            "doctors": [
+              { "pid": 4105, "dokter": "dr. Afif Faizi Assaffah, Sp.PD" },
+              { "pid": 4112, "dokter": "dr. Asri Prameswari, Sp.PD" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 106,
+            "specialist": "Spesialis Penyakit Dalam",
+            "doctors": [
+              { "pid": 4196, "dokter": "dr. Adityana, Sp.PD" },
+              {
+                "pid": 4221,
+                "dokter": "Prof. Dr. dr. Heru Sundaru, Sp.PD - KAI"
+              },
+              { "pid": 4267, "dokter": "dr. Mira Yulianti, Sp.PD - KP" },
+              {
+                "pid": 4295,
+                "dokter": "dr. Amanda Pitarini Utari, Sp.PD - KGEH"
+              },
+              { "pid": 4304, "dokter": "dr. Alvin Nursalim, Sp.PD" },
+              {
+                "pid": 4340,
+                "dokter": "dr. Eric Daniel Tenda, Sp.PD, DIC, PhD, FINASIM"
+              },
+              { "pid": 4384, "dokter": "dr. Nyoto Widyo Astoro, Sp.PD - KHOM" },
+              { "pid": 4385, "dokter": "dr. Eddy Supriadi, Sp.PD" },
+              { "pid": 4397, "dokter": "dr. Nenfiati, Sp.PD - KEMD" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 106,
+            "specialist": "Spesialis Penyakit Dalam",
+            "doctors": [{ "pid": 4173, "dokter": "dr. Hendra Gunawan, Sp.PD" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 10,
+    "tmgroupname": "Laboratorium",
+    "rs": [
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 107,
+            "specialist": "Spesialis Patologi Klinik",
+            "doctors": [
+              { "pid": 4215, "dokter": "dr. Bettia M. Bermawi, Sp.PK " }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 11,
+    "tmgroupname": "Medical Rehabilitation",
+    "rs": [
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 86,
+            "specialist": "Spesialis Kedokteran Fisik dan Rehabilitasi",
+            "doctors": [
+              { "pid": 1900, "dokter": "Lestaria Aryanti, Dr. SpKFR" },
+              { "pid": 4851, "dokter": "Lucya Putri Juwita, Dr. SpKFR" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 86,
+            "specialist": "Spesialis Kedokteran Fisik dan Rehabilitasi",
+            "doctors": [
+              { "pid": 4100, "dokter": "dr. Natalia Loekito, Sp.KFR" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 86,
+            "specialist": "Spesialis Kedokteran Fisik dan Rehabilitasi",
+            "doctors": [
+              { "pid": 4249, "dokter": "dr. Rigina Nilandrani, Sp.KFR" },
+              { "pid": 4329, "dokter": "dr. Ibrahim Agung, Sp.KFR" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 86,
+            "specialist": "Spesialis Kedokteran Fisik dan Rehabilitasi",
+            "doctors": [
+              { "pid": 1287, "dokter": "dr. Amendi Nasution, Sp.KFR" },
+              { "pid": 4675, "dokter": "dr. Rigina Nilandrani, Sp.KFR" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 12,
+    "tmgroupname": "Neuro Surgery",
+    "rs": [
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 80,
+            "specialist": "Spesialis Bedah Saraf",
+            "doctors": [
+              {
+                "pid": 4236,
+                "dokter": "dr. Syafrizal Abubakar, Sp.BS (K), FINPS"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 13,
+    "tmgroupname": "Neurology",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 112,
+            "specialist": "Spesialis Saraf",
+            "doctors": [{ "pid": 1242, "dokter": "Abdul, dr. SpS" }]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 112,
+            "specialist": "Spesialis Saraf",
+            "doctors": [{ "pid": 4103, "dokter": "dr. Purnama Sidhi, Sp.S" }]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 112,
+            "specialist": "Spesialis Saraf",
+            "doctors": [
+              { "pid": 4225, "dokter": "dr. Zicky Yombana, Sp.S" },
+              { "pid": 4297, "dokter": "dr. Aldy Novriansyah, Sp.S" },
+              { "pid": 4314, "dokter": "dr. Lilir Amalini, Sp.S" },
+              { "pid": 4655, "dokter": "dr. M. Arief Rachman, Sp.S" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 112,
+            "specialist": "Spesialis Saraf",
+            "doctors": [
+              { "pid": 4174, "dokter": "dr. Reza Aditya Arpandy, BMedSc, Sp.S" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 15,
+    "tmgroupname": "Obstetric & Gynaecology",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 97,
+            "specialist": "Spesialis Kebidanan dan Penyakit Kandungan",
+            "doctors": [
+              { "pid": 1200, "dokter": "Ardian Suryo Anggoro, dr. SpOG" },
+              { "pid": 1211, "dokter": "Firman Santoso,dr, SpOG" },
+              { "pid": 1214, "dokter": "Test kiosk IVF" },
+              { "pid": 1222, "dokter": "Nurhasanah Puji,dr. SpOG" },
+              { "pid": 1230, "dokter": "Dinda Derdameisya, dr. SpOG" },
+              { "pid": 1237, "dokter": "Novan Satya Pamungkas, dr. SpOG" },
+              { "pid": 1238, "dokter": "Tirsa Verani K.Oroh, dr. SpOG" },
+              { "pid": 1255, "dokter": "Benny Johan, dr. SpOG" },
+              { "pid": 1263, "dokter": "Musa Soebiantoro, dr, SpOG" },
+              { "pid": 1266, "dokter": "Mohammad Haekal, dr. SpOG" },
+              { "pid": 1273, "dokter": "Diana Mauria Ratna Asih, dr. SpOG" },
+              { "pid": 1279, "dokter": "Krisna Murti, dr. SpOG" },
+              { "pid": 1295, "dokter": "Damar P, dr. Med, SpOG (K)" },
+              { "pid": 1296, "dokter": "Eva Roria, dr. SpOG-KFM" },
+              { "pid": 1297, "dokter": "Ali Baziad Prof dr Med SpOG (K)" },
+              { "pid": 1298, "dokter": "Prima Progestian, dr. SpOG" },
+              { "pid": 1299, "dokter": "Chamim, dr. SpOG (K)" },
+              { "pid": 1301, "dokter": "UF Bagazi, dr. SpOG" },
+              { "pid": 1302, "dokter": "Dewi Prabarini, dr. SpOG" },
+              { "pid": 1726, "dokter": " Ratna Lestari Habibah dr. Sp.OG" },
+              { "pid": 1731, "dokter": "Hari Prasetyo Rahardjo, dr SpOG" },
+              { "pid": 1747, "dokter": "Sandy Prasetyo, dr. SpOG" },
+              { "pid": 3205, "dokter": "Dario Turk, dr. Sp.OG" },
+              { "pid": 3210, "dokter": "Ridwan dr. Sp.OG" },
+              { "pid": 3211, "dokter": "Choirurrizqi, dr. SpOG" },
+              { "pid": 3580, "dokter": "Sadina Pramuktini dr. SpOG(K)" },
+              { "pid": 4710, "dokter": "Febriansyah,dr Sp.OG-KFM" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 97,
+            "specialist": "Spesialis Kebidanan dan Penyakit Kandungan",
+            "doctors": [
+              { "pid": 1328, "dokter": "Beta Meidarifni Adiputri, Dr. SpOG" },
+              { "pid": 1357, "dokter": "Anisar Lestaluhu, Dr. SpOG" },
+              { "pid": 1360, "dokter": "Winda, Dr. SpOG" },
+              { "pid": 1904, "dokter": "Reza Tigor, Dr. SpOG" },
+              { "pid": 3609, "dokter": "Agrifa Hasiholan Haloho, Dr. SpOG" },
+              { "pid": 4150, "dokter": "Adri Dwi Anggayana, dr. SpOG" },
+              { "pid": 4189, "dokter": "Nivi Chandiawati, dr. SpOG" },
+              { "pid": 4299, "dokter": "Indra Gazali Syamsuddin, Dr. SpOG " }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 97,
+            "specialist": "Spesialis Obstetri & Ginekologi (Kebidanan dan Kandungan)",
+            "doctors": [
+              { "pid": 1301, "dokter": "dr. UF Bagazi, Sp.OG" },
+              { "pid": 1372, "dokter": "dr. Sitti Fausihar, Sp.OG" },
+              { "pid": 1382, "dokter": "dr. Linda Lestari, Sp.OG" },
+              { "pid": 1385, "dokter": "dr. Tamtam Otamar Samsudin, Sp.OG" },
+              { "pid": 1408, "dokter": "Dr. dr. Junita Indarti, Sp.OG (K)" },
+              { "pid": 1409, "dokter": "dr. Fachruddin, Sp.OG" },
+              { "pid": 1912, "dokter": "dr. Zakiah Tourik Mahri, Sp.OG" },
+              { "pid": 1922, "dokter": "dr. Febian Nathania, Sp.OG" },
+              { "pid": 1931, "dokter": "dr. Amanda Rumondang, Sp.OG" },
+              { "pid": 2240, "dokter": "dr. Adi Widodo, Sp.OG (K)" },
+              { "pid": 3593, "dokter": "dr. Nana Agustina, Sp.OG" },
+              { "pid": 4624, "dokter": "dr. Arju Anita, Sp.OG" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 97,
+            "specialist": "Spesialis Obstetri & Ginekologi (Kebidanan dan Kandungan)",
+            "doctors": [
+              { "pid": 4078, "dokter": "dr. Andri Kurniawan, Sp.OG" },
+              { "pid": 4083, "dokter": "dr. Ardian, Sp.OG" },
+              { "pid": 4084, "dokter": "dr. Cut Diah Tris Mananti, Sp.OG" },
+              { "pid": 4085, "dokter": "dr. Buha S.E.P. Sihombing, Sp.OG" },
+              { "pid": 4086, "dokter": "dr. Suhartadji, Sp.OG" },
+              { "pid": 4091, "dokter": "dr. Angga Januarsa Suryadi, Sp.OG" },
+              { "pid": 4098, "dokter": "dr. Wisnu Setyawan, Sp.OG" },
+              { "pid": 4099, "dokter": "dr. Silfiren, Sp.OG" },
+              { "pid": 4104, "dokter": "dr. Lydia Sutandar, Sp.OG" },
+              {
+                "pid": 4114,
+                "dokter": "dr. Anak Agung Rai Dwi Payanti Maharani, Sp.OG"
+              },
+              { "pid": 4118, "dokter": "dr. Arum Purnagari, Sp.OG" },
+              {
+                "pid": 4120,
+                "dokter": "dr. Leonanta Mahardika Ginting, Sp.OG"
+              },
+              { "pid": 4672, "dokter": "dr. Riyana Kadarsari, Sp.OG" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 97,
+            "specialist": "Spesialis Obstetri & Ginekologi (Kebidanan dan Kandungan)",
+            "doctors": [
+              { "pid": 1238, "dokter": "dr. Tirsa Verani K. Oroh, Sp.OG" },
+              { "pid": 1301, "dokter": "dr. UF Bagazi, Sp.OG" },
+              {
+                "pid": 1304,
+                "dokter": "Prof. dr. Nugroho Kampono, Sp.OG (K) Onk"
+              },
+              { "pid": 1924, "dokter": "Dr. dr. Chamim, Sp.OG (K) Onk" },
+              { "pid": 4201, "dokter": "Dr. dr. Taufik Jamaan, Sp.OG" },
+              {
+                "pid": 4212,
+                "dokter": "dr. Mohammad Haekal, Sp.OG, KFER, FICS, MIGS"
+              },
+              {
+                "pid": 4213,
+                "dokter": "Dr. med. dr. Damar Prasmusinto, Sp.OG (K) FM"
+              },
+              { "pid": 4214, "dokter": "dr. Lazuardy Rachman, Sp.OG" },
+              {
+                "pid": 4219,
+                "dokter": "Prof. Dr. dr. M. Farid Aziz, Sp.OG (K) Onk, FICS"
+              },
+              {
+                "pid": 4220,
+                "dokter": "Prof. Dr. dr. Laila Nuranna, Sp.OG (K) Onk"
+              },
+              { "pid": 4226, "dokter": "dr. Yuri Feharsal, Sp.OG" },
+              {
+                "pid": 4245,
+                "dokter": "dr. Sang Arifianto Fajar Adi.K, Sp.OG"
+              },
+              { "pid": 4250, "dokter": "dr. Rifardi Rifiar, Sp.OG" },
+              { "pid": 4254, "dokter": "dr. Rany Ayu Puspitasari, Sp.OG" },
+              { "pid": 4262, "dokter": "dr. N.B. Donny A.M, Sp.OG" },
+              { "pid": 4310, "dokter": "dr. Febriansyah Darus, Sp.OG (K) FM" },
+              { "pid": 4333, "dokter": "dr. Nisa Fathoni, Sp.OG, IBCLC" },
+              { "pid": 4339, "dokter": "dr. Fransisca Noela R.M.H, Sp.OG" },
+              { "pid": 4350, "dokter": "dr. Deradjat Muharam, Sp.OG" },
+              { "pid": 4353, "dokter": "dr. Choirurrizqi, Sp.OG" },
+              { "pid": 4356, "dokter": "Dr. dr. Suskhan Djusad, Sp.OG (K)" },
+              { "pid": 4374, "dokter": "dr. M. Adya F. Dilmy, Sp.OG" },
+              { "pid": 4378, "dokter": "dr. Ardiansjah Dara Sjahruddin Sp.OG" },
+              { "pid": 4381, "dokter": "dr. Alesia Novita, Sp.OG" },
+              { "pid": 4382, "dokter": "dr. Aidrus Abdul Muthalib, Sp.OG" },
+              { "pid": 4390, "dokter": "dr. Cherysa Rifiranda, Sp.OG" },
+              {
+                "pid": 4400,
+                "dokter": "Dr. dr. Batara Imanuel Sirait, Sp.OG. Subsp.FER"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 16,
+    "tmgroupname": "Opthalmologist",
+    "rs": [
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 95,
+            "specialist": "Spesialis Mata",
+            "doctors": [
+              {
+                "pid": 4082,
+                "dokter": "dr. Hasiholan Tigor Adityo Hasibuan, Sp.M"
+              },
+              { "pid": 4110, "dokter": "dr. Puti Ayu Tiara, SpM" },
+              { "pid": 4115, "dokter": "dr. Soraya Rachima, Sp.M" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 95,
+            "specialist": "Spesialis Mata",
+            "doctors": [
+              { "pid": 4228, "dokter": "dr. Yulinda Arty Laksmita, Sp.M" },
+              { "pid": 4352, "dokter": "dr. Anindita Wicitra, Sp.M" },
+              { "pid": 4371, "dokter": "dr. Fitri Muslim Nathin, Sp.M" },
+              { "pid": 4376, "dokter": "dr. Etty Budiasni, Sp.M" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 17,
+    "tmgroupname": "Orthopedic",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 101,
+            "specialist": "Spesialis Bedah Orthopaedi dan Traumatologi",
+            "doctors": [
+              { "pid": 1199, "dokter": "Paulus Ronald Hibono dr. SpOT" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 101,
+            "specialist": "Spesialis Bedah Orthopaedi dan Traumatologi",
+            "doctors": [
+              { "pid": 1888, "dokter": "Ajiantoro, Dr. SpOT" },
+              { "pid": 1889, "dokter": "Paramita Dyah, Dr. Sp.OT" },
+              { "pid": 4434, "dokter": "Dody Kurniawan, dr. SpOT" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 101,
+            "specialist": "Spesialis Bedah Orthopaedi dan Traumatologi",
+            "doctors": [{ "pid": 4664, "dokter": "dr. Dody Kurniawan, Sp.OT" }]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 101,
+            "specialist": "Spesialis Bedah Orthopaedi dan Traumatologi",
+            "doctors": [
+              {
+                "pid": 4247,
+                "dokter": "dr. Rizky Notario Haryanto Putro, Sp.OT (K)"
+              },
+              { "pid": 4386, "dokter": "Dr. dr. Achmad Zaki, Sp.OT" },
+              { "pid": 4730, "dokter": "dr. Radi Muharris Mulyana, Sp.OT (K)" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 18,
+    "tmgroupname": "Pediatric",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 1203, "dokter": "Reza Abdussalam, dr. Sp.A." },
+              { "pid": 1228, "dokter": "Frida Soesanti, dr. SpA (K)" },
+              { "pid": 1235, "dokter": "Natia Anjarsari W, dr. SpA" },
+              { "pid": 1236, "dokter": "Margareta Komalasari, dr. SpA" },
+              { "pid": 1256, "dokter": "Johnny Nurman, dr. SpA" },
+              { "pid": 1259, "dokter": "Diah Pramita, dr. SpA " },
+              { "pid": 1285, "dokter": "Gladys Rasidy, dr. SpA" },
+              { "pid": 1313, "dokter": "Sander D. Teddy, dr. SpA" },
+              { "pid": 1314, "dokter": "Attila Dewanti, dr. Sp.A (K)" },
+              { "pid": 1315, "dokter": "Lindana Sastra, dr. SpA" },
+              { "pid": 1316, "dokter": "Evita KB Ifran, dr. SpA (K)" },
+              { "pid": 1318, "dokter": "Irma Rochima Puspita, dr. SpA" },
+              { "pid": 1733, "dokter": "Harun, dr. Sp.A" },
+              { "pid": 1803, "dokter": "Yoga Devaera, dr. SpA (Nutrisi)" },
+              { "pid": 1825, "dokter": "Gatami, dr. SpA" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 1321, "dokter": "Ambarsari Sri Nirmala Dewi, Dr. SpA" },
+              { "pid": 1331, "dokter": "Alinda Rubiati Wibowo, Dr. SpA (K)" },
+              { "pid": 1358, "dokter": "Nadine Shakina, Dr. SpA" },
+              { "pid": 1363, "dokter": "M. Vinci Ghazali, Dr. SpA" },
+              { "pid": 1364, "dokter": "Yuanita Dewi Anggriani, Dr. SpA" },
+              { "pid": 1893, "dokter": "Anita Juniatiningsih, Dr. SpA" },
+              { "pid": 3610, "dokter": "Srisadono Fauzi Adiprabowo, Dr. SpA" },
+              { "pid": 4146, "dokter": "Dwi Kartika, Dr. Sp. A" },
+              { "pid": 4439, "dokter": "Indah Dina Maritha, Dr. Sp. A" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 1386, "dokter": "dr. Ahmad Arhan Arif, Sp.A" },
+              {
+                "pid": 1388,
+                "dokter": "dr. Ridha Kurnia Tejasari, M.Kes, Sp.A"
+              },
+              { "pid": 1398, "dokter": "dr. Tb. Ferdi Fadilah, M.Kes, Sp.A" },
+              { "pid": 1399, "dokter": "dr. Tania Paramita, Sp.A" },
+              { "pid": 1400, "dokter": "dr. Srie Enggar, Sp.A" },
+              { "pid": 1401, "dokter": "dr. Nathalia Ningrum, Sp.A" },
+              { "pid": 1929, "dokter": "dr. Fitria Mayasari, Sp.A" },
+              { "pid": 4177, "dokter": "dr. Fitria Mahrunnisa, MSc, Sp.A" },
+              { "pid": 4635, "dokter": "dr. Karina Faisha, Sp.A" },
+              {
+                "pid": 4660,
+                "dokter": "dr. J. Mila Hardiani Cahyaningrum, M.Kes, Sp.A"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 1333, "dokter": "dr. Galih Linggar Astu, Sp.A" },
+              { "pid": 4093, "dokter": "dr. Masyitha, Sp.A" },
+              { "pid": 4095, "dokter": "dr. Pamela Kartoyo, Sp.A" },
+              { "pid": 4097, "dokter": "dr. Lusiana Kartini Ningsih, Sp.A" },
+              { "pid": 4101, "dokter": "dr. Nanang Kusdiyan, Sp.A" },
+              { "pid": 4414, "dokter": "dr. Arum Gunarsih, SpA (K)" },
+              { "pid": 4729, "dokter": "dr. Prima Evita Juwitasari, Sp.A" },
+              { "pid": 4731, "dokter": "dr. Iqbal Alamsah, Sp.A" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 11,
+        "hospital": "Brawijaya Clinic - Bandung",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 4428, "dokter": "dr. Nathania Wonoputri, M.Kes, Sp.A" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 1401, "dokter": "dr. Nathalia Ningrum, Sp.A" },
+              { "pid": 4230, "dokter": "dr. Winda Azwani, Sp.A (K)" },
+              { "pid": 4235, "dokter": "dr. Tartila, Sp.A (K)" },
+              { "pid": 4268, "dokter": "dr. Mira Febriani Inkiriwang, Sp.A" },
+              {
+                "pid": 4276,
+                "dokter": "dr. Herbowo Agung F. Soetomenggolo, Sp.A (K)"
+              },
+              { "pid": 4336, "dokter": "dr. Dina Muktiarti, Sp.A (K)" },
+              {
+                "pid": 4341,
+                "dokter": "Dr. dr. Andi Nanis Sacharina, Sp.A (K)"
+              },
+              { "pid": 4342, "dokter": "dr. Diana Mustika Chandra, Sp.A" },
+              { "pid": 4345, "dokter": "dr. Ali Alhadar, Sp.A (K)" },
+              { "pid": 4348, "dokter": "dr. Nina Dwi Putri, Sp.A (K)" },
+              { "pid": 4351, "dokter": "dr. Catur Sapariyanto, Sp.A" },
+              { "pid": 4355, "dokter": "dr. Rifan Fauzie, Sp.A (K)" },
+              { "pid": 4364, "dokter": "dr. Eric Gultom, Sp.A (K)" },
+              { "pid": 4379, "dokter": "dr. Annisa Nur Aini, Sp.A" },
+              { "pid": 4451, "dokter": "dr. Meirdhania Andina, Sp.A" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 71,
+            "specialist": "Spesialis Anak",
+            "doctors": [
+              { "pid": 3155, "dokter": "dr. Bernie Endyarni, Sp.A" },
+              { "pid": 4155, "dokter": "dr. Purnama Fitri, Sp.A" },
+              { "pid": 4177, "dokter": "dr. Fitria Mahrunnisa, MSc, Sp.A" },
+              { "pid": 4674, "dokter": "dr. Wulan Sasmeita, Sp.A" },
+              { "pid": 4779, "dokter": "dr. Anthony Christian Darmawan, Sp.A" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 19,
+    "tmgroupname": "Physician Nutrition",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 84,
+            "specialist": "Spesialis Gizi Klinik",
+            "doctors": [
+              { "pid": 1193, "dokter": "Cindiawaty Josito dr.Sp.GK" },
+              { "pid": 1231, "dokter": "Ingka Nilawardani, dr. MGizi,SpGK" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 84,
+            "specialist": "Spesialis Gizi Klinik",
+            "doctors": [{ "pid": 1212, "dokter": "Maryam, Dr. Sp.GK " }]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 84,
+            "specialist": "Spesialis Gizi Klinik",
+            "doctors": [
+              {
+                "pid": 1368,
+                "dokter": "dr. Dorna Yanti Lola Silaban, M.Gizi, Sp.GK"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 84,
+            "specialist": "Spesialis Gizi Klinik",
+            "doctors": [
+              {
+                "pid": 4326,
+                "dokter": "dr. Eleonora Mitaning Christy, M.Gizi, Sp.GK"
+              },
+              { "pid": 4365, "dokter": "dr. Endang Widyastuti, M.Gizi, Sp.GK" },
+              {
+                "pid": 4399,
+                "dokter": "dr. Melyarna Putri, MPH, M.Gizi, Sp.GK"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 20,
+    "tmgroupname": "Plastic Surgery",
+    "rs": [
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 78,
+            "specialist": "Spesialis Bedah Plastik",
+            "doctors": [{ "pid": 4244, "dokter": "dr. Sara Ester, Sp.BP - RE" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 21,
+    "tmgroupname": "Psikiatri",
+    "rs": [
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 89,
+            "specialist": "Spesialis Kedokteran Jiwa atau Psikiatri",
+            "doctors": [{ "pid": 4395, "dokter": "dr. Agung Frijanto, Sp.KJ" }]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 89,
+            "specialist": "Spesialis Kedokteran Jiwa atau Psikiatri",
+            "doctors": [
+              { "pid": 3032, "dokter": "dr. Ika Sri Nurtantri, Sp.KJ" },
+              {
+                "pid": 4128,
+                "dokter": "dr. James Darmapuspita Aloysius, Sp.KJ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 22,
+    "tmgroupname": "Psycholog",
+    "rs": [
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 54,
+            "specialist": "Psikolog",
+            "doctors": [{ "pid": 1925, "dokter": "dr.Firman Ramdhani, M.Psi" }]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 56,
+            "specialist": "Spesialis Psikologi",
+            "doctors": [
+              { "pid": 4075, "dokter": "Juliawaty Budiman, S.Psi., Psikolog" },
+              { "pid": 4121, "dokter": "Tanti Diniyanti, S.Psi., Psikolog" },
+              { "pid": 4122, "dokter": "Rika Ermasari, S.Psi., Psikolog., ACC" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 31,
+        "hospital": "Brawijaya Clinic Kemang",
+        "specialist": [
+          {
+            "tmid": 56,
+            "specialist": "Spesialis Psikologi",
+            "doctors": [
+              { "pid": 3089, "dokter": "Nuran Abdad, S.Psi,Psikolog" },
+              { "pid": 3152, "dokter": "Rika Ermasari, S.Psi,Ct,CHt" }
+            ]
+          },
+          {
+            "tmid": 57,
+            "specialist": "Psikologi",
+            "doctors": [
+              {
+                "pid": 2994,
+                "dokter": "Arindah Arimoerti Dano,S.Psi,M.Psi,Psikolog"
+              },
+              {
+                "pid": 2996,
+                "dokter": "Ayoe Permatasary,S.Psi, M.Psi,Psikolog"
+              },
+              {
+                "pid": 3019,
+                "dokter": "Christina Dumaria, S.Psi, M.Psi, Psikologi"
+              },
+              {
+                "pid": 3050,
+                "dokter": "Vera Itabiliana Hadiwidjojo, S.Psi.,Psikolog"
+              },
+              { "pid": 3051, "dokter": "Rafika Ariani, M.Psi.,Psikolog" },
+              {
+                "pid": 3052,
+                "dokter": "Marcelina Melisa Dewi Tetono, M.Psi.,Psikolog"
+              },
+              { "pid": 3056, "dokter": "Chitra Annisya, M.Psi.,Psikolog" },
+              {
+                "pid": 3057,
+                "dokter": "Mayang Gita Mardian, M. Psi.,Psikolog"
+              },
+              {
+                "pid": 3059,
+                "dokter": "Sri Juwita Kusumawardhani, M.Psi.,Psikolog"
+              },
+              {
+                "pid": 3060,
+                "dokter": "Putu Pradnya Dewi Andani, M.Psi.,Psikolog"
+              },
+              {
+                "pid": 4160,
+                "dokter": "Evryanti Cahaya Putri, M.Psi., Psikolog"
+              },
+              { "pid": 4161, "dokter": "Diajeng Tri Padya, M.Psi, Psikolog" },
+              { "pid": 4165, "dokter": "Agung Rachmadi,M.Psi.,Psikolog" },
+              {
+                "pid": 4167,
+                "dokter": "Mutia Aprilia Permata Kusumah M.Psi., Psikolog"
+              },
+              { "pid": 4168, "dokter": "Larissa Amira Giyani,M.Psi,Psikolog" },
+              {
+                "pid": 4176,
+                "dokter": "Febria Indra Hastati, M.Psi, Psikolog, CH.Cht"
+              },
+              { "pid": 4401, "dokter": "Kara Handali, M.Psi., Psikolog" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 23,
+    "tmgroupname": "Pulmunology",
+    "rs": [
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 102,
+            "specialist": "Spesialis Paru (Pulmonologi)",
+            "doctors": [
+              { "pid": 4113, "dokter": "dr. Indarto Sigit, Sp.P" },
+              { "pid": 4663, "dokter": "dr. Mohammad Afien Mukti, Sp.P," }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 102,
+            "specialist": "Spesialis Paru (Pulmonologi)",
+            "doctors": [
+              { "pid": 4253, "dokter": "dr. Ratih Pahlesia, Sp.P" },
+              { "pid": 4373, "dokter": "dr. Sutji Astuti Mariono, Sp.P" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 24,
+    "tmgroupname": "Radiology",
+    "rs": [
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 110,
+            "specialist": "Spesialis Radiologi",
+            "doctors": [
+              { "pid": 4243, "dokter": "dr. Semuel Manangka, Sp.Rad (K) RI" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 25,
+    "tmgroupname": "Surgery",
+    "rs": [
+      {
+        "rsid": 7,
+        "hospital": "Brawijaya Hospital - Antasari",
+        "specialist": [
+          {
+            "tmid": 75,
+            "specialist": "Spesialis Bedah",
+            "doctors": [
+              { "pid": 1229, "dokter": "Djoko Sanjoto, dr. SpB" },
+              { "pid": 1241, "dokter": "Arief Wibisono, dr. Sp.B(K)Onk" },
+              { "pid": 1563, "dokter": "Rika Lesmana, dr Sp.B" }
+            ]
+          },
+          {
+            "tmid": 76,
+            "specialist": "Spesialis Bedah Anak",
+            "doctors": [{ "pid": 4590, "dokter": "dr. Tamu" }]
+          }
+        ]
+      },
+      {
+        "rsid": 8,
+        "hospital": "Brawijaya Hospital - Depok",
+        "specialist": [
+          {
+            "tmid": 75,
+            "specialist": "Spesialis Bedah",
+            "doctors": [
+              { "pid": 1326, "dokter": "Bambang Budiarto, Dr. SpB" },
+              { "pid": 1898, "dokter": "Endey Prasetiyo,Dr. SpB" },
+              { "pid": 3613, "dokter": "Feyona Heliani Subrata, Dr. SpB" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 9,
+        "hospital": "Brawijaya Hospital - Duren Tiga",
+        "specialist": [
+          {
+            "tmid": 75,
+            "specialist": "Spesialis Bedah",
+            "doctors": [
+              { "pid": 1379, "dokter": "dr. Terry Renata Lawanto, Sp.B" },
+              { "pid": 4636, "dokter": "dr. Zamzania Anggia Shalih, Sp.B" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 75,
+            "specialist": "Spesialis Bedah",
+            "doctors": [
+              { "pid": 4090, "dokter": "dr. Novrizal, Sp.B" },
+              { "pid": 4096, "dokter": "dr. Lucia Nirmalasari, Sp.B" },
+              { "pid": 4662, "dokter": "dr. Clement Dewanto, Sp.B" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 64,
+            "specialist": "Bedah Vaskular",
+            "doctors": [
+              {
+                "pid": 4195,
+                "dokter": "dr. Yuliardy Limengka, Sp.B.Subsp.BVE (K)"
+              }
+            ]
+          },
+          {
+            "tmid": 75,
+            "specialist": "Spesialis Bedah",
+            "doctors": [
+              { "pid": 4197, "dokter": "dr. Sari Febriana, Sp.B" },
+              { "pid": 4216, "dokter": "dr. Vonty Elfrida, Sp.B" },
+              { "pid": 4258, "dokter": "dr. Perwira Widianto, Sp.B - KBD" },
+              { "pid": 4290, "dokter": "dr. Bob Andinata, Sp.B (K) Onk" },
+              { "pid": 4306, "dokter": "dr. Caroline Supit, Sp.B" },
+              { "pid": 4346, "dokter": "dr. Sarwan Wibawa Mohan, Sp.B" },
+              { "pid": 4354, "dokter": "dr. Aditomo, Sp.B - KBD" },
+              { "pid": 4383, "dokter": "dr. Wulan Ayudyasari, Sp.B, Sp.BA" },
+              { "pid": 4396, "dokter": "dr. Rofi Yuldi Saunar, Sp.B - KBD" }
+            ]
+          },
+          {
+            "tmid": 76,
+            "specialist": "Spesialis Bedah Anak",
+            "doctors": [
+              {
+                "pid": 4335,
+                "dokter": "Dr. dr. Riana Pauline Tamba, Sp.B.SubBPed"
+              }
+            ]
+          },
+          {
+            "tmid": 81,
+            "specialist": "Spesialis Bedah Toraks Kardiovaskuler",
+            "doctors": [
+              {
+                "pid": 4302,
+                "dokter": "dr. Dicky Aligheri, Sp.BTKV (K), FIHA, FICA"
+              },
+              {
+                "pid": 4742,
+                "dokter": "dr. Akmal Alfaritsi Hamonangan, Sp.BTKV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmgroupid": 26,
+    "tmgroupname": "Urology",
+    "rs": [
+      {
+        "rsid": 10,
+        "hospital": "Brawijaya Hospital Tangerang",
+        "specialist": [
+          {
+            "tmid": 114,
+            "specialist": "Spesialis Urologi",
+            "doctors": [
+              { "pid": 4667, "dokter": "dr. Donny Eka Putra, Sp.U (K)" }
+            ]
+          }
+        ]
+      },
+      {
+        "rsid": 19,
+        "hospital": "Brawijaya Hospital Saharjo",
+        "specialist": [
+          {
+            "tmid": 114,
+            "specialist": "Spesialis Urologi",
+            "doctors": [
+              { "pid": 4204, "dokter": "dr. Endrika Noviandrini, Sp.U" },
+              { "pid": 4229, "dokter": "dr. Yonas Hutasoit, Sp.U" },
+              { "pid": 4337, "dokter": "dr. Akbari Wahyudi Kusumah, Sp.U" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
